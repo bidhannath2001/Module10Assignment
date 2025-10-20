@@ -7,7 +7,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     List<String> languages = ['DART', 'Python', 'PHP', 'JavaScript'];
-    List<String> frameworks = ['FLUTER', 'Django & React', 'LARAVEL', 'MERN'];
+    List<String> frameworks = ['FLUTTER', 'Django & React', 'LARAVEL', 'MERN'];
     List<String> batches = ['ব্যাচ ১৩', 'ব্যাচ ৬', 'ব্যাচ ১০', 'ব্যাচ ৮'];
     List<String> availableSeats = [
       '৬ সিট বাকি',
